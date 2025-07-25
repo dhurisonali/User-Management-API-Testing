@@ -1,22 +1,24 @@
 # User Management API Testing (Postman Project)
 
 ## 🔍 Overview
-This project tests CRUD operations on a sample user API using Postman.
+This project tests CRUD operations on a sample user API using Postman and DummyJSON.
 
-## ✅ Covered Requests
+## ✅ Covered API Endpoints
 - GET: List users
-- POST: Create user
-- PUT: Update user
-- DELETE: Remove user
+- POST: Create a new user
+- PUT: Update a user
+- DELETE: Delete a user
 
-## 🛠️ Tools
+## 🌐 Base URL
+https://dummyjson.com
+
+## 🛠️ Tools Used
 - Postman
-- Reqres.in
-- JavaScript for validation
+- DummyJSON (Fake REST API)
 
 ## 📁 Files
-- Collection: user_api_collection.json
+- user_api_collection.json: Contains all API requests in Postman collection format.
 - README.md
 
-## 👩‍💻 Author
+## 📌 Author
 Sonali Dhuri – QA Engineer
